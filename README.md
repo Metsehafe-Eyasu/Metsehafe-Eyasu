@@ -15,10 +15,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=metsehafe-eyasu&show_icons=true&locale=en&layout=compact" alt="metsehafe-eyasu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=metsehafe-eyasu&show_icons=true&locale=en" alt="metsehafe-eyasu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=metsehafe-eyasu&" alt="metsehafe-eyasu" /></p>
-
 
 
 <!--
